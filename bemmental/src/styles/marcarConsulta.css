@@ -1,0 +1,68 @@
+body {
+  background-color: #f5d4ff; /* Cor de fundo para a página */
+}
+
+.consulta-container {
+  background: #dcbcff;
+  background-color: rgb(226, 185, 255);
+  border-radius: 16px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.05);
+}
+
+.consulta-container h1 {
+  text-align: center;   
+  color: #4a4848;
+  margin-bottom: 2rem;  
+}
+
+.consulta-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.periodo-group {
+  display: flex;
+  gap: 1rem;
+}
+
+.consulta-form input {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+.periodo-btn {
+  background: #f0f0f0;
+  border: none;
+  border-radius: 8px;   
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #5a5475;
+  transition: background 0.2s;
+}
+
+.periodo-btn.selected,
+.periodo-btn:active {
+  background: #8A2BE2; /* Cor de fundo para o botão de período selecionado */
+  color: #fff;
+}
