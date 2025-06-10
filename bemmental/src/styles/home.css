@@ -1,0 +1,78 @@
+.suaMente {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.cuideDela {
+  	margin: 0;
+}
+.suaMenteRefleteContainer {
+  	position: absolute;
+  	top: 58px;
+  	left: 606px;
+  	font-size: 36px;
+  	line-height: 100%;
+  	text-transform: uppercase;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 531px;
+  	height: 118px;
+}
+.cadastreSeGratuitamenteE {
+  	position: absolute;
+  	top: 176px;
+  	left: 603px;
+  	font-family: Quicksand;
+  	display: inline-block;
+  	width: 406px;
+  	height: 72px;
+}
+.encontreOPsicolgo {
+  	position: absolute;
+  	top: 320px;
+  	left: 800px;
+  	line-height: 100%;
+  	text-transform: uppercase;
+  	font-weight: 600;
+  	text-align: right;
+  	display: inline-block;
+  	width: 369px;
+  	height: 131px;
+}
+.buscandoUmProfissional {
+  	position: absolute;
+  	top: 397px;
+  	left: 830px;
+  	font-size: 24px;
+  	font-family: Quicksand;
+  	text-align: right;
+  	display: inline-block;
+  	width: 339px;
+  	height: 168px;
+}
+.ttulo42 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 565px;
+  	height: 565px;
+  	object-fit: cover;
+}
+.semTtulo121 {
+  	position: absolute;
+  	top: 348px;
+  	left: 624px;
+  	width: 194px;
+  	height: 163px;
+  	object-fit: cover;
+}
+.conteudo {
+  	width: 100%;
+  	position: relative;
+  	height: 565px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #000;
+  	font-family: Montserrat;
+}
+

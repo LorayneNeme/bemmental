@@ -1,0 +1,141 @@
+.figmaIcon {
+  	width: 23.3px;
+  	height: 35px;
+  	display: none;
+}
+.xLogoIcon {
+  	width: 19px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 204.67px;
+  	left: 38px;
+  	max-height: 100%;
+  	z-index: 0;
+}
+.logoInstagramIcon {
+  	width: 19px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 204.67px;
+  	left: 75px;
+  	max-height: 100%;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 1;
+}
+.logoYoutubeIcon {
+  	width: 19px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 204.67px;
+  	left: 110px;
+  	max-height: 100%;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 2;
+}
+.linkedinIcon {
+  	width: 19px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 204.67px;
+  	left: 150px;
+  	max-height: 100%;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 3;
+}
+.buttonList {
+  	width: 253px;
+  	height: 45px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	position: relative;
+  	gap: 16px;
+}
+.title {
+  	position: absolute;
+  	top: -179.67px;
+  	left: 27px;
+  	width: 36682.7px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	min-width: 240px;
+}
+.exclude {
+  	width: 131px;
+  	position: relative;
+  	margin: 0 !important;
+  	background-color: #1e1e1e;
+  	height: 19px;
+  	z-index: 0;
+}
+.copyrightBemMental {
+  	width: 430.2px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 25px;
+  	left: calc(50% - 207px);
+  	line-height: 100%;
+  	display: flex;
+  	align-items: center;
+  	height: 18px;
+  	z-index: 1;
+}
+.listItem {
+  	position: absolute;
+  	top: -50.42%;
+  	left: 0%;
+  	line-height: 140%;
+}
+.textLinkListItemWrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 98.9px;
+  	height: 11.9px;
+}
+.textLinkListItem1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 193.93px;
+  	width: 95.1px;
+  	height: 11.9px;
+}
+.groupParent {
+  	width: 289px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 28px;
+  	left: 945px;
+  	height: 11.9px;
+  	z-index: 2;
+  	font-size: 16px;
+  	color: #1e1e1e;
+}
+.footer {
+  	width: 100%;
+  	position: relative;
+  	background-color: #f1e4ff;
+  	border-top: 1px solid #d9d9d9;
+  	box-sizing: border-box;
+  	height: 58px;
+  	overflow-y: auto;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	flex-wrap: wrap;
+  	align-content: flex-start;
+  	padding: 32px;
+  	gap: 16px;
+  	text-align: left;
+  	font-size: 15px;
+  	color: #000;
+  	font-family: Quicksand;
+}
+
